@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dId+67lE4j3SVNqidZ94dKlq13Z+gOXRWSgp1o99tVnevgj9B3sXM368WTAQrEOR7VHEC8Qi/VB1PJ8BaRNYpQ==",
+  "success": true,
+  "projectFilePath": "C:\\mimi\\LogTest\\LogTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alumno\\.nuget\\packages\\nlog\\5.0.4\\nlog.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

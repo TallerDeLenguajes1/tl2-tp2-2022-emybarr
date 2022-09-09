@@ -1,0 +1,1 @@
+2022-09-09 18:21:24.0606|INFO|Program|Hello world
