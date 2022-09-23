@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\taller\\tl2-tp2-2022-emybarr\\LogTest\\LogTest.csproj": {}
+    "C:\\taller\\tl2-tp2-2022-emybarr\\Ejercicio3\\Ejercicio3.csproj": {}
   },
   "projects": {
-    "c:\\taller\\tl2-tp2-2022-emybarr\\LogTest\\LogTest.csproj": {
+    "C:\\taller\\tl2-tp2-2022-emybarr\\Ejercicio3\\Ejercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\taller\\tl2-tp2-2022-emybarr\\LogTest\\LogTest.csproj",
-        "projectName": "LogTest",
-        "projectPath": "c:\\taller\\tl2-tp2-2022-emybarr\\LogTest\\LogTest.csproj",
+        "projectUniqueName": "C:\\taller\\tl2-tp2-2022-emybarr\\Ejercicio3\\Ejercicio3.csproj",
+        "projectName": "Ejercicio3",
+        "projectPath": "C:\\taller\\tl2-tp2-2022-emybarr\\Ejercicio3\\Ejercicio3.csproj",
         "packagesPath": "C:\\Users\\mimii\\.nuget\\packages\\",
-        "outputPath": "c:\\taller\\tl2-tp2-2022-emybarr\\LogTest\\obj\\",
+        "outputPath": "C:\\taller\\tl2-tp2-2022-emybarr\\Ejercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mimii\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -41,6 +41,10 @@
             "NLog": {
               "target": "Package",
               "version": "[5.0.4, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.15, )"
             }
           },
           "imports": [

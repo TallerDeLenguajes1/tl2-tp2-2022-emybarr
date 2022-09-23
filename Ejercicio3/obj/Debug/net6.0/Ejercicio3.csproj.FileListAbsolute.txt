@@ -1,0 +1,15 @@
+C:\taller\tl2-tp2-2022-emybarr\Ejercicio3\bin\Debug\net6.0\Ejercicio3.exe
+C:\taller\tl2-tp2-2022-emybarr\Ejercicio3\bin\Debug\net6.0\Ejercicio3.deps.json
+C:\taller\tl2-tp2-2022-emybarr\Ejercicio3\bin\Debug\net6.0\Ejercicio3.runtimeconfig.json
+C:\taller\tl2-tp2-2022-emybarr\Ejercicio3\bin\Debug\net6.0\Ejercicio3.dll
+C:\taller\tl2-tp2-2022-emybarr\Ejercicio3\bin\Debug\net6.0\Ejercicio3.pdb
+C:\taller\tl2-tp2-2022-emybarr\Ejercicio3\obj\Debug\net6.0\Ejercicio3.csproj.AssemblyReference.cache
+C:\taller\tl2-tp2-2022-emybarr\Ejercicio3\obj\Debug\net6.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\taller\tl2-tp2-2022-emybarr\Ejercicio3\obj\Debug\net6.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\taller\tl2-tp2-2022-emybarr\Ejercicio3\obj\Debug\net6.0\Ejercicio3.AssemblyInfo.cs
+C:\taller\tl2-tp2-2022-emybarr\Ejercicio3\obj\Debug\net6.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\taller\tl2-tp2-2022-emybarr\Ejercicio3\obj\Debug\net6.0\Ejercicio3.dll
+C:\taller\tl2-tp2-2022-emybarr\Ejercicio3\obj\Debug\net6.0\refint\Ejercicio3.dll
+C:\taller\tl2-tp2-2022-emybarr\Ejercicio3\obj\Debug\net6.0\Ejercicio3.pdb
+C:\taller\tl2-tp2-2022-emybarr\Ejercicio3\obj\Debug\net6.0\Ejercicio3.genruntimeconfig.cache
+C:\taller\tl2-tp2-2022-emybarr\Ejercicio3\obj\Debug\net6.0\ref\Ejercicio3.dll
